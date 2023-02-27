@@ -52,4 +52,6 @@ Please make sure to follow the coding conventions and best practices used in the
 
 # License
 
-RoomPlankit is released under the MIT License.
+RoomPlankit is released under the [MIT](https://choosealicense.com/licenses/mit/) License.
+
+
