@@ -41,6 +41,12 @@ Feature 1: written in swiftUI
 
 # Contributing
 
+1- Ahmed Alharbi
+
+2- [Albara Sait](https://www.linkedin.com/in/albaraa-sait-470a41212)
+
+3- [Wejdan Alshahrani](https://www.linkedin.com/in/wejdan-b36a59216)
+
 If you would like to contribute to RoomPlankit, please follow these steps:
 
 Fork this repository.
